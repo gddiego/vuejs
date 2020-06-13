@@ -1,0 +1,27 @@
+[
+    {
+        "id": 4,
+        "name": "Fire Tablet, 7",
+        "price": "47.49"
+    },
+    {
+        "id": 3,
+        "name": "Amazon Echo, Black",
+        "price": "149.99"
+    },
+    {
+        "id": 1592082722581,
+        "name": "teste",
+        "price": "34"
+    },
+    {
+        "id": 1592083866175,
+        "name": "pastelaria",
+        "price": "780"
+    },
+    {
+        "id": 1592083875082,
+        "name": "marmitaria",
+        "price": "23232"
+    }
+]
